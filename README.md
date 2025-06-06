@@ -42,8 +42,12 @@ pip install torch
 
 ## Report
 
-Read the full documentation in[babygpt_report.pdf](https://github.com/sayan-dewanjee23/Babygpt/blob/main/babygpt_report.pdf)
+Read the full documentation in [babygpt_report.pdf](https://github.com/sayan-dewanjee23/Babygpt/blob/main/babygpt_report.pdf)
 
 ## Inspiration
 
 This project began with curiosity about how language models learn from data. Inspired by open-source efforts and foundational tutorials, the aim was to explore—from the ground up—the journey from simple frequency-based models to neural network-based Transformers.
+
+## Trained Model 
+
+[Download trained model ](https://github.com/sayan-dewanjee23/Babygpt/releases/tag/v1.0)
