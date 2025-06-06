@@ -36,8 +36,8 @@ pip install torch
 ```
 ## Results
 
-- Bi-gram model: Perplexity ≈ 12
-- Transformer (BabyGPT): Perplexity ≈ 4.4
+- Bi-gram model: Perplexity ≈ 12.05
+- Transformer (BabyGPT): Perplexity ≈ 4.3
 - GPT-style model produces significantly more coherent and meaningful text.
 
 ## Report
