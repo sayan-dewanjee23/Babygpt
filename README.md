@@ -1,15 +1,15 @@
-# 🧠 From Bi-gram to BabyGPT: A Language Modeling Journey
+#  From Bi-gram to BabyGPT: A Language Modeling Journey
 
 This project demonstrates a step-by-step evolution from a simple **character-level Bi-gram model** to a **miniature GPT-style Transformer**, built entirely from scratch using PyTorch.
 
-## 📁 Project Structure
+##  Project Structure
 
 - `bigram.py` — A basic character-level Bi-gram language model.  
 - `babygpt.py` — A custom Transformer model (BabyGPT) with self-attention and multi-head layers.  
 - `input.txt` — The text corpus used to train both models.  
 - `babygpt_report.pdf` — A detailed report explaining model design, training, evaluation, and insights.
 
-## 🔍 Highlights
+##  Highlights
 
 - Character-level tokenization and data preparation  
 - Implementation of self-attention and multi-head attention from scratch  
@@ -18,7 +18,7 @@ This project demonstrates a step-by-step evolution from a simple **character-lev
 - Comparison between Bi-gram and Transformer performance  
 - Sample text generation using trained models
 
-## 🚀 Getting Started
+##  Getting Started
 
 Run either model using:
 
@@ -30,6 +30,10 @@ or
 python babygpt.py
 ```
 
+Install required dependencies (mainly PyTorch) using:
+```bash
+pip install torch
+```
 ## Results
 
 - Bi-gram model: Perplexity ≈ 12
