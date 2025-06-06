@@ -42,7 +42,7 @@ pip install torch
 
 ## Report
 
-Read the full documentation in[babygpt_report.pdf]{https://github.com/sayan-dewanjee23/Babygpt/blob/main/babygpt_report.pdf}
+Read the full documentation in[babygpt_report.pdf](https://github.com/sayan-dewanjee23/Babygpt/blob/main/babygpt_report.pdf)
 
 ## Inspiration
 
